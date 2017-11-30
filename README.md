@@ -295,9 +295,6 @@ $ git stash pop
 <a href="i-want-to-discard-my-local-uncommitted-changes"></a>
 ### I want to discard my local, uncommitted changes
 
-If you want to only reset to some commit between origin and your local, you can do this:
-
-
 This will unstage all files you might have staged with git add:
 
 ```sh
