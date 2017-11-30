@@ -327,12 +327,6 @@ $ git clean -fdx
 
 WARNING: -x will also remove all ignored files!
 
-To reset only a specific file, you can use that filename as the argument:
-
-```sh
-$ git reset filename
-```
-
 <a href="i-want-to-discard-specific-unstaged-changes"></a>
 ### I want to discard specific unstaged changes
 
